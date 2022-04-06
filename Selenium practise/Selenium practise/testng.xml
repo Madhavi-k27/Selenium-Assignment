@@ -1,0 +1,12 @@
+<suite name="Suite">
+
+<test name="Tests">
+<classes>
+<class name="Tests.HelmetPageTest"/>
+<class name="Tests.HomePageTest"/>
+<class name="Tests.ShoesPageTest"/>
+
+</classes>
+
+</test>
+</suite>
